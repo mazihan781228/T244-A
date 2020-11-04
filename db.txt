@@ -1,0 +1,7 @@
+create table t_book(
+
+	book_id int,
+	book_name varchar(20)
+
+
+)
